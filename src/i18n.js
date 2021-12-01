@@ -24,6 +24,14 @@ i18n
               part2: 'Learn React'
           }
         }
+      },
+      fr: {
+        translation: {
+          description: {
+            part1: ' Modifier <1>src/App.js</1> et enregistrer pour rafraîchir.',
+            part2: 'Apprendre React'
+          }
+        }
       }
     }
   });
